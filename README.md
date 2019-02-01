@@ -4,10 +4,14 @@ Simple website project for git
 
 ## Introduction
 
+This is the intro
+
 ## Purpose
 
 Sample website with plenty of files for demos
 
 ## Deployment
+
+Deployment section
 
 ### Third level heading
