@@ -14,4 +14,6 @@ Sample website with plenty of files for demos
 
 Deployment section
 
-### Third level heading
+### Copytright
+
+2019 XTICorp
