@@ -4,7 +4,7 @@ Simple website project for git
 
 ## Introduction
 
-This is the intro. And more to the intro
+This is the intro. And more to the intro, mor changes from myfeature branch
 
 ## Purpose
 
