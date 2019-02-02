@@ -16,4 +16,4 @@ Deploy with spoons and forks
 
 ### Copytright
 
-2019 XTICorp
+2019 XTICorp, All Rights Reserved.
