@@ -12,7 +12,7 @@ Sample website with plenty of files for demos
 
 ## Deployment
 
-Deployment section
+Deploy with spoons and forks
 
 ### Copytright
 
