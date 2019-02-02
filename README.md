@@ -8,7 +8,7 @@ This is the intro. And more to the intro, mor changes from myfeature branch
 
 ## Purpose
 
-Sample website with plenty of files for demos
+Sample website with plenty of files for demos, Emergency fix after a stash.
 
 ## Deployment
 
